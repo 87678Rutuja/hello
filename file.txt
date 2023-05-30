@@ -1,0 +1,3 @@
+name:rutuja
+sub:wad
+roll 52
